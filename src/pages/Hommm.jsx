@@ -1,5 +1,5 @@
 import React from 'react';
-import Headerrr from '../components/headerrr';
+
 import Brands from '../components/Brands';
 
 
@@ -8,7 +8,7 @@ function Hommm() {
     <div>
 
 
-      <Headerrr />
+      
       <Brands />
 
     </div>

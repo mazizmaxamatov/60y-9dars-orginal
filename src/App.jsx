@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes, Navigate } from "react-router-dom";
-import Hommm from "./pages/Hommm";
+import Hommm from "../src/pages/Hommm";
 
 
 const App = () => {
@@ -12,8 +12,8 @@ const App = () => {
 
   return (
     <>
-
-      <Hommm />
+      
+      <Hommm/>
 
     </>
   );
